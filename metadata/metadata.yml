@@ -1,0 +1,7 @@
+metadata_version: 1
+name: InProReg Student Exchange
+description: Exercise on trajectory planning for robotic pick and place applications within the framework of the Interreg Deutschland-Danmark project InProReg.
+authors:
+- name: Manuel Amersdorfer
+  affiliations:
+  - name: Kiel University
