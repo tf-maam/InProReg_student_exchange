@@ -1,6 +1,9 @@
 metadata_version: 1
 name: InProReg Student Exchange
-description: Exercise on trajectory planning for robotic pick and place applications within the framework of the Interreg Deutschland-Danmark project InProReg.
+description: |-
+  Exercise on trajectory planning for robotic pick and place applications within the framework of the Interreg Deutschland-Danmark project InProReg.
+
+  The first author (Manuel Amersdorfer) is supported by the InProReg project (project no. DD01-004). InProReg is financed by Interreg Deutschland-Danmark with means from the European Regional Development Fund.
 authors:
 - name: Manuel Amersdorfer
   affiliations:
